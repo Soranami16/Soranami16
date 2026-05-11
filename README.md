@@ -12,8 +12,6 @@ Hi, I’m an Informatics student and also an English Education student.I’m cur
 ![](https://streak-stats.demolab.com/?user=Soranami16&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Soranami16&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soranami16&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Soranami16&icon=7&color=10)](https://visitcount.itsvg.in)
